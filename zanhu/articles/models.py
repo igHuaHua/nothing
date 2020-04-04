@@ -11,7 +11,7 @@ from slugify import slugify
 from markdownx.models import MarkdownxField
 from markdownx.utils import markdownify
 from taggit.managers import TaggableManager
-
+from zanhu.users.models import User
 
 @python_2_unicode_compatible
 class ArticleQuerySet(models.query.QuerySet):
@@ -43,7 +43,7 @@ class Article(models.Model):
     STATUS = (("D", "Draft"), ("P", "Published"))
 
     title = models.CharField(max_length=255, null=False, unique=True, verbose_name='标题')
-    user = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, related_name="author", on_delete=models.SET_NULL, verbose_name='作者')
+    user = models.ForeignKey(User, null=True, related_name="author", on_delete=models.SET_NULL, verbose_name='作者')
     image = models.ImageField(upload_to='articles_pictures/%Y/%m/%d/', verbose_name='文章图片')
     slug = models.SlugField(max_length=80, null=True, blank=True, verbose_name='(URL)别名')
     status = models.CharField(max_length=1, choices=STATUS, default='D', verbose_name='状态')  # 默认存入草稿箱

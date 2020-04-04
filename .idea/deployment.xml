@@ -26,7 +26,7 @@
       <paths name="zanhu_aliyun">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/zanhu/zanhu" local="$PROJECT_DIR$" web="/zanhu/zanhu" />
           </mappings>
         </serverdata>
       </paths>
