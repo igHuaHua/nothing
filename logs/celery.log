@@ -1,0 +1,622 @@
+[2019-12-10 22:40:04,022: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-10 22:40:04,051: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-10 22:40:05,095: INFO/MainProcess] mingle: all alone
+[2019-12-10 22:40:05,108: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-10 22:40:03
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fd0a5108160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-10 22:41:02,949: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-10 22:41:02,988: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-10 22:41:04,021: INFO/MainProcess] mingle: all alone
+[2019-12-10 22:41:04,033: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-10 22:41:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fc4fa9cb160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-10 22:55:40,500: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-10 22:55:40,754: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-10 22:55:42,153: INFO/MainProcess] mingle: all alone
+[2019-12-10 22:55:42,239: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-10 22:55:39
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fd9b56f7198
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-10 23:06:06,483: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-10 23:06:06,661: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-10 23:06:08,124: INFO/MainProcess] mingle: all alone
+[2019-12-10 23:06:08,421: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-10 23:06:05
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fe6cb7e9160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-10 23:16:13,846: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-10 23:16:13,951: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-10 23:16:15,107: INFO/MainProcess] mingle: all alone
+[2019-12-10 23:16:15,270: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-10 23:16:12
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f71cd336160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-10 23:16:45,300: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-10 23:16:45,354: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-10 23:16:46,508: INFO/MainProcess] mingle: all alone
+[2019-12-10 23:16:46,589: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-10 23:16:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f7798cad160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-11 10:21:17,238: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-11 10:21:17,254: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-11 10:21:18,613: INFO/MainProcess] mingle: all alone
+[2019-12-11 10:21:18,667: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-11 10:21:16
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fe4bde0e160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-11 10:49:46,897: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-11 10:49:46,992: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-11 10:49:48,156: INFO/MainProcess] mingle: all alone
+[2019-12-11 10:49:48,222: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-11 10:49:45
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f77408220f0
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-11 10:50:39,265: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-11 10:50:39,399: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-11 10:50:40,615: INFO/MainProcess] mingle: all alone
+[2019-12-11 10:50:40,726: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+[2019-12-11 11:04:24,699: INFO/MainProcess] Received task: djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]  
+[2019-12-11 11:04:24,954: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:04:25,020: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Failed to send email message to ['282408643@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:04:25,098: INFO/MainProcess] Received task: djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]  ETA:[2019-12-11 11:07:25.021833+08:00] 
+[2019-12-11 11:04:25,140: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155] succeeded in 0.437504068002454s: 0
+[2019-12-11 11:07:25,921: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:07:25,979: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Failed to send email message to ['282408643@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:07:25,983: INFO/MainProcess] Received task: djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]  ETA:[2019-12-11 11:10:25.980321+08:00] 
+[2019-12-11 11:07:26,011: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155] succeeded in 0.29328665099455975s: 0
+[2019-12-11 11:07:58,288: INFO/MainProcess] Received task: djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]  
+[2019-12-11 11:07:58,458: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:07:58,505: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Failed to send email message to ['1049913251@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:07:58,509: INFO/MainProcess] Received task: djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]  ETA:[2019-12-11 11:10:58.506454+08:00] 
+[2019-12-11 11:07:58,532: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34] succeeded in 0.24227767399861477s: 0
+[2019-12-11 11:10:26,228: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:10:26,275: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Failed to send email message to ['282408643@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:10:26,278: INFO/MainProcess] Received task: djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]  ETA:[2019-12-11 11:13:26.276124+08:00] 
+[2019-12-11 11:10:26,303: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155] succeeded in 0.24195169300946873s: 0
+[2019-12-11 11:10:59,564: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:10:59,619: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Failed to send email message to ['1049913251@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:10:59,623: INFO/MainProcess] Received task: djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]  ETA:[2019-12-11 11:13:59.620533+08:00] 
+[2019-12-11 11:10:59,651: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34] succeeded in 0.2906048290024046s: 0
+[2019-12-11 11:13:26,919: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:13:26,972: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155]: Failed to send email message to ['282408643@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:13:26,982: ERROR/ForkPoolWorker-1] Task djcelery_email_send_multiple[1fbfa716-ceef-4a0f-a9ac-349f54ea2155] raised unexpected: SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/app/trace.py", line 385, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/celery/app/trace.py", line 648, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 58, in send_emails
+    send_emails.retry([[message], combined_kwargs], exc=e, throw=False)
+  File "/usr/local/lib/python3.6/site-packages/celery/app/task.py", line 703, in retry
+    raise_with_context(exc)
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 49, in send_emails
+    sent = conn.send_messages([dict_to_email(message)])
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 110, in send_messages
+    sent = self._send(message)
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 126, in _send
+    self.connection.sendmail(from_email, recipients, message.as_bytes(linesep='\r\n'))
+  File "/usr/lib64/python3.6/smtplib.py", line 867, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com')
+[2019-12-11 11:14:00,247: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:14:00,300: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Failed to send email message to ['1049913251@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:14:00,303: INFO/MainProcess] Received task: djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]  ETA:[2019-12-11 11:17:00.300919+08:00] 
+[2019-12-11 11:14:00,330: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34] succeeded in 0.2929368879995309s: 0
+[2019-12-11 11:17:00,679: ERROR/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Cannot reach CELERY_EMAIL_BACKEND django.core.mail.backends.smtp.EmailBackend
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 41, in send_emails
+    conn.open()
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib64/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib64/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib64/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (554, b'Sender IP address rejected: Access denied [@ud010306]')
+[2019-12-11 11:17:00,745: WARNING/ForkPoolWorker-1] djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34]: Failed to send email message to ['1049913251@qq.com'], retrying. (SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com'))
+[2019-12-11 11:17:00,746: ERROR/ForkPoolWorker-1] Task djcelery_email_send_multiple[71f9fe24-d18f-487f-a775-76ec1c270f34] raised unexpected: SMTPSenderRefused(531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/app/trace.py", line 385, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/celery/app/trace.py", line 648, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 58, in send_emails
+    send_emails.retry([[message], combined_kwargs], exc=e, throw=False)
+  File "/usr/local/lib/python3.6/site-packages/celery/app/task.py", line 703, in retry
+    raise_with_context(exc)
+  File "/usr/local/lib/python3.6/site-packages/djcelery_email/tasks.py", line 49, in send_emails
+    sent = conn.send_messages([dict_to_email(message)])
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 110, in send_messages
+    sent = self._send(message)
+  File "/usr/local/lib64/python3.6/site-packages/django/core/mail/backends/smtp.py", line 126, in _send
+    self.connection.sendmail(from_email, recipients, message.as_bytes(linesep='\r\n'))
+  File "/usr/lib64/python3.6/smtplib.py", line 867, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (531, b'Authentication is required [@sm050105]', 'imooc@socialmail.liaogx.com')
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-11 10:50:38
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f291fd31160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-11 11:24:26,307: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-11 11:24:26,374: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-11 11:24:27,535: INFO/MainProcess] mingle: all alone
+[2019-12-11 11:24:27,602: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+[2019-12-11 11:25:08,290: INFO/MainProcess] Received task: djcelery_email_send_multiple[f6c00ad2-7de9-4730-9a4f-da12f97a44ae]  
+[2019-12-11 11:25:09,871: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[f6c00ad2-7de9-4730-9a4f-da12f97a44ae] succeeded in 1.5769656620104797s: 1
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-11 11:24:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f3fea9e9160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2019-12-11 11:58:44,067: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2019-12-11 11:58:44,264: INFO/MainProcess] mingle: searching for neighbors
+[2019-12-11 11:58:45,618: INFO/MainProcess] mingle: all alone
+[2019-12-11 11:58:45,716: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2019-12-11 11:58:42
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f36dd00f160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-03-17 13:32:33,739: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-03-17 13:32:33,884: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 13:32:35,017: INFO/MainProcess] mingle: all alone
+[2020-03-17 13:32:35,122: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2020-03-17 13:32:33
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fb3d5a3b160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-03-17 13:33:29,156: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-03-17 13:33:29,408: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 13:33:30,519: INFO/MainProcess] mingle: all alone
+[2020-03-17 13:33:30,592: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+[2020-03-17 13:56:03,520: INFO/MainProcess] Received task: djcelery_email_send_multiple[0038dee9-35c7-4545-8173-6854654a0b99]  
+[2020-03-17 13:56:06,790: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[0038dee9-35c7-4545-8173-6854654a0b99] succeeded in 3.266544047743082s: 1
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2020-03-17 13:33:28
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fbdf7f09160
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-03-17 14:49:05,705: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-03-17 14:49:05,851: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 14:49:07,123: INFO/MainProcess] mingle: all alone
+[2020-03-17 14:49:07,230: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2020-03-17 14:49:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fe9d5157198
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-03-27 18:17:37,088: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-03-27 18:17:37,171: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-27 18:17:38,289: INFO/MainProcess] mingle: all alone
+[2020-03-27 18:17:38,369: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2020-03-27 18:17:36
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f231381e128
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-03-27 18:24:25,802: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-03-27 18:24:25,972: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-27 18:24:27,067: INFO/MainProcess] mingle: all alone
+[2020-03-27 18:24:27,079: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2020-03-27 18:24:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7f1a643e0198
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-03-27 18:34:45,751: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-03-27 18:34:46,120: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-27 18:34:47,353: INFO/MainProcess] mingle: all alone
+[2020-03-27 18:34:47,460: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+[2020-04-03 17:46:48,666: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-04-03 17:46:48,766: INFO/MainProcess] mingle: searching for neighbors
+[2020-04-03 17:46:49,867: INFO/MainProcess] mingle: all alone
+[2020-04-03 17:46:49,929: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@iz2zeii46cbd4eswhiroyhz v4.3.0rc3 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core 2020-04-03 17:46:47
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         zanhu:0x7fecc0d5b128
+- ** ---------- .> transport:   redis://localhost:6379/1%20%20
+- ** ---------- .> results:     redis://localhost:6379/2  
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . djcelery_email_send_multiple
+  . zanhu.taskapp.celery.debug_task
+
+[2020-04-03 18:20:24,781: INFO/MainProcess] Connected to redis://localhost:6379/1%20%20
+[2020-04-03 18:20:24,938: INFO/MainProcess] mingle: searching for neighbors
+[2020-04-03 18:20:26,127: INFO/MainProcess] mingle: all alone
+[2020-04-03 18:20:26,169: INFO/MainProcess] celery@iz2zeii46cbd4eswhiroyhz ready.
+[2020-04-03 18:41:26,913: INFO/MainProcess] Received task: djcelery_email_send_multiple[8444cdf0-9f5c-47ef-8174-af59f2a4c012]  
+[2020-04-03 18:41:27,951: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[8444cdf0-9f5c-47ef-8174-af59f2a4c012] succeeded in 1.0345342810001057s: 1
+[2020-04-03 18:42:27,389: INFO/MainProcess] Received task: djcelery_email_send_multiple[012742b6-7d24-43dc-b5cc-3f3b50e1da4d]  
+[2020-04-03 18:42:28,186: INFO/ForkPoolWorker-1] Task djcelery_email_send_multiple[012742b6-7d24-43dc-b5cc-3f3b50e1da4d] succeeded in 0.7949579599999197s: 1
