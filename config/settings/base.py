@@ -1,6 +1,8 @@
 """
 Base settings to build other settings files upon.
 """
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
 
 import environ
 

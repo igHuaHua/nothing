@@ -1,4 +1,5 @@
-
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
 from django.contrib import messages
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.views.generic import CreateView, ListView, UpdateView, DetailView

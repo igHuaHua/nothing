@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
+
 from .base import *  # noqa
 from .base import env
 

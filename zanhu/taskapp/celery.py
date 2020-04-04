@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
+
 import os
 from celery import Celery
 from django.apps import apps, AppConfig

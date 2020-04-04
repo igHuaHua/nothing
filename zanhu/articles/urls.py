@@ -1,4 +1,5 @@
-
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
 from django.urls import path
 from django.views.decorators.cache import cache_page
 

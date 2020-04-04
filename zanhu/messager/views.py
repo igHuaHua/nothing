@@ -1,4 +1,5 @@
-
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
 from asgiref.sync import async_to_sync
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
