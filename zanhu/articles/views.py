@@ -39,7 +39,7 @@ class DraftsListView(ArticlesListView):
         return Article.objects.filter(user=self.request.user).get_drafts()
 
 
-@method_decorator(cache_page(60 * 60), name='get')  # get是小写
+# @method_decorator(cache_page(60 * 60), name='get')  # get是小写
 class CreateArticleView(LoginRequiredMixin, CreateView):
     """创建文章"""
     model = Article

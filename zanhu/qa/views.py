@@ -58,7 +58,7 @@ class UnansweredQuestionListView(QuestionListView):
         return context
 
 
-@method_decorator(cache_page(60 * 60), name='get')
+# @method_decorator(cache_page(60 * 60), name='get')
 class CreateQuestionView(LoginRequiredMixin, CreateView):
     """用户提问"""
 
