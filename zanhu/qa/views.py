@@ -86,7 +86,7 @@ class QuestionDetailView(LoginRequiredMixin, DetailView):
         return Question.objects.select_related('user').filter(pk=self.kwargs['pk'])
 
 
-@method_decorator(cache_page(60 * 60), name='get')
+# @method_decorator(cache_page(60 * 60), name='get')
 class CreateAnswerView(LoginRequiredMixin, CreateView):
     """回答问题"""
     model = Answer
